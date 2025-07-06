@@ -1,5 +1,6 @@
 train: data/images/train
 val: data/images/val
+test: data/images/test  # optional
 
 nc: 1
 names: ['license_plate']
